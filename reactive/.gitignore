@@ -1,5 +1,9 @@
 HELP.md
-.gradle
+gradle/**
+gradlew
+gradlew.bat
+HELP.md
+.gradle/**
 .idea/**
 .idea
 build/
